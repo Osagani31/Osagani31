@@ -8,7 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osagani31&label=Profile%20views&color=0e75b6&style=flat" alt="osagani31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osagani31" alt="osagani31" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=osagani31)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 🔭 I’m currently working on *Train_Booking_System*
 
@@ -38,5 +39,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osagani31&show_icons=true&theme=radical&refresh=1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osagani31&layout=compact&theme=radical)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=osagani31&theme=tokyonight)](https://git.io/streak-stats)
 
