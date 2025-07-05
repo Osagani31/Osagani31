@@ -30,7 +30,7 @@
 <a href="https://instagram.com/osagani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osagani_" height="30" width="40" /></a>
 <a href="https://github.com/osagani31" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="osagani31" height="30" width="40" />
-</a>
+<a href="https://www.leetcode.com/osagani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osagani" height="30" width="40" /></a>
 </p>
 
 
@@ -44,4 +44,6 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=osagani31&theme=tokyonight)](https://git.io/streak-stats)
+
+
 
