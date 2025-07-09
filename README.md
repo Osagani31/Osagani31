@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="300" />
+  <img height="150" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="200" />
 </div>
 <h1 align="center">Hi 👋, I'm Osagani Perera</h1>
 <h3 align="center">Computer Science Undergraduate from Srilanka</h3>
@@ -31,6 +31,9 @@
 <a href="https://github.com/osagani31" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="osagani31" height="30" width="40" />
 <a href="https://www.leetcode.com/osagani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osagani" height="30" width="40" /></a>
+<a href="https://codepen.io/osagani31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="osagani31" height="30" width="40" /></a>
+<a href="https://www.behance.net/Osagani Perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="osagani perera" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@Osagani Perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@osagani perera" height="30" width="40" /></a
 </p>
 
 
