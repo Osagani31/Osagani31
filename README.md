@@ -42,7 +42,9 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=osagani31&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osagani31&layout=compact&theme=tokyonight" alt="Top Languages" width="350"/>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osagani31&layout=compact&theme=tokyonight&langs_count=100" alt="Top Languages" width="450" height="700"/>
+
 </p>
 
 
