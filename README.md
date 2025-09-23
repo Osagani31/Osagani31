@@ -47,6 +47,6 @@
 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osagani31&layout=compact&theme=tokyonight&langs_count=100" alt="Top Languages" width="450" height="700"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osagani31&layout=compact&theme=tokyonight&langs_count=100&count_private=true&cache_seconds=1800)
 
 
