@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on *Spotify Clone Mobile App*
 
-- 🌱 I’m currently learning *Flutter,Dart,Angular,SpringBoot,AI,ML*
+- 🌱 I’m currently learning *Flutter,Dart,Angular,SpringBoot,c#,.net*
 
 - 👯 I’m looking to collaborate on *Research Projects*
 
