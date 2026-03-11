@@ -1,4 +1,5 @@
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=osagani31&label=Profile%20views&color=0e75b6&style=flat" alt="osagani31" /> </p>
 
 <div align="center">
   <img height="150" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="200" />
@@ -6,11 +7,10 @@
 <h1 align="center">Hi 👋, I'm Osagani Perera</h1>
 <h3 align="center">Computer Science Undergraduate from Srilanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osagani31&label=Profile%20views&color=0e75b6&style=flat" alt="osagani31" /> </p>
 
 <p align="center">
 <a href="https://nextjs-portfolio-six-wheat.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white" height="400" width="400"/>
 </a>
 </p>
 
