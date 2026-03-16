@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osagani31&label=Profile%20views&color=0e75b6&style=flat" alt="osagani31" /> </p>
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="200" />
+  <img height="150" src="https://wallpaperaccess.com/full/15709213.jpg" width="200" />
 </div>
 <h1 align="center">Hi 👋, I'm Osagani Perera</h1>
 <h3 align="center">Computer Science Undergraduate from Srilanka</h3>
@@ -56,7 +56,7 @@
 
 <p align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osagani31&layout=compact&theme=tokyonight&langs_count=20"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osagani31&layout=compact&theme=tokyonight&langs_count=20"/>
 
 </p>
 
