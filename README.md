@@ -86,15 +86,23 @@
 
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osagani31&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Osagani31&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-<p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osagani31&layout=compact&theme=tokyonight&hide_border=true&langs_count=30"/>
-</p>
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <p align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Osagani31&show_icons=true&theme=radical&locale=en" width="100%"/>
+      </p>
+      <p align="center">
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Osagani31&theme=radical" width="100%"/>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <p align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Osagani31&theme=radical&layout=compact&langs_count=20&card_width=400" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🧠 Developer Mindset
 ```diff
